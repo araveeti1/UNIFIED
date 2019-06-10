@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="3" passed="3">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="76" started-at="2019-04-07T01:25:34Z" finished-at="2019-04-07T01:25:34Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="74" started-at="2019-04-07T01:25:34Z" finished-at="2019-04-07T01:25:34Z">
+      <class name="bmo.unifiedfwk.Test1">
+        <test-method status="PASS" signature="tester(java.lang.String)[pri:0, instance:bmo.unifiedfwk.Test1@7c16905e]" name="tester" is-config="true" duration-ms="13" started-at="2019-04-07T01:25:34Z" finished-at="2019-04-07T01:25:34Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Venkat]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tester -->
+        <test-method status="PASS" signature="login()[pri:0, instance:bmo.unifiedfwk.Test1@7c16905e]" name="login" duration-ms="12" started-at="2019-04-07T01:25:34Z" finished-at="2019-04-07T01:25:34Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- login -->
+        <test-method status="PASS" signature="tester2()[pri:0, instance:bmo.unifiedfwk.Test1@7c16905e]" name="tester2" is-config="true" duration-ms="0" started-at="2019-04-07T01:25:34Z" finished-at="2019-04-07T01:25:34Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tester2 -->
+      </class> <!-- bmo.unifiedfwk.Test1 -->
+    </test> <!-- Test -->
+    <test name="Test3" duration-ms="74" started-at="2019-04-07T01:25:34Z" finished-at="2019-04-07T01:25:34Z">
+      <class name="bmo.unifiedfwk.Test1">
+        <test-method status="PASS" signature="tester(java.lang.String)[pri:0, instance:bmo.unifiedfwk.Test1@59f99ea]" name="tester" is-config="true" duration-ms="13" started-at="2019-04-07T01:25:34Z" finished-at="2019-04-07T01:25:34Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chi]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tester -->
+        <test-method status="PASS" signature="login()[pri:0, instance:bmo.unifiedfwk.Test1@59f99ea]" name="login" duration-ms="11" started-at="2019-04-07T01:25:34Z" finished-at="2019-04-07T01:25:34Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- login -->
+        <test-method status="PASS" signature="tester2()[pri:0, instance:bmo.unifiedfwk.Test1@59f99ea]" name="tester2" is-config="true" duration-ms="0" started-at="2019-04-07T01:25:34Z" finished-at="2019-04-07T01:25:34Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tester2 -->
+      </class> <!-- bmo.unifiedfwk.Test1 -->
+    </test> <!-- Test3 -->
+    <test name="Test1" duration-ms="75" started-at="2019-04-07T01:25:34Z" finished-at="2019-04-07T01:25:34Z">
+      <class name="bmo.unifiedfwk.Test1">
+        <test-method status="PASS" signature="tester(java.lang.String)[pri:0, instance:bmo.unifiedfwk.Test1@29774679]" name="tester" is-config="true" duration-ms="13" started-at="2019-04-07T01:25:34Z" finished-at="2019-04-07T01:25:34Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Pradeep]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tester -->
+        <test-method status="PASS" signature="login()[pri:0, instance:bmo.unifiedfwk.Test1@29774679]" name="login" duration-ms="14" started-at="2019-04-07T01:25:34Z" finished-at="2019-04-07T01:25:34Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- login -->
+        <test-method status="PASS" signature="tester2()[pri:0, instance:bmo.unifiedfwk.Test1@29774679]" name="tester2" is-config="true" duration-ms="0" started-at="2019-04-07T01:25:34Z" finished-at="2019-04-07T01:25:34Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tester2 -->
+      </class> <!-- bmo.unifiedfwk.Test1 -->
+    </test> <!-- Test1 -->
+  </suite> <!-- Suite -->
+</testng-results>
